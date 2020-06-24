@@ -3,7 +3,9 @@
 ### Introduction
 
 My name is Vanessa Guigon and I am from *Chicago, Illinois*. I
-am a second year undergrad at UChicago majoring in **Public Policy** and **Political Science**. 
+am a rising third year at UChicago majoring in **Public Policy** 
+and **Political Science**. After graduating, I plan on pursuing a
+law degree or a masters in public policy.
 
 ### About Me
 
@@ -11,10 +13,25 @@ am a second year undergrad at UChicago majoring in **Public Policy** and **Polit
 - I was born in Florida and I moved to Chicago when I was 12.
 - I am an identical twin, and she also goes to UChicago.
   - I am older than her by *16 minutes*.
-- I am a Dual Citizen of **US** and **France**.
+- I am a Dual Citizen of the **US** and **France**.
 
-#### Photo
+#### Photo:
 Below is an image of myself.
 
-![Image of Myself](https://macss-r.uchicago.edu/s/58682939a4f7d62be2b4e/files/cfss/Photo%20of%20Me.jpg) 
+![](Me.jpg)
+
+
+#### My Favorite Quotes:
+Michelle Obama in her book *Becoming*
+
+>Your story is what you have, what you will always have. It is 
+something to own.
+
+Barack Obama
+
+>We are the change that we seek.
+
+
+
+
 
